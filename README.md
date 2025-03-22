@@ -39,6 +39,3 @@ Congratulations! You guessed the number 47 correctly in 3 attempts.
 ```
 
 
-**Author:** Mangesh Pangam <br> 
-**GitHub:** [Mangesh2704](https://github.com/Mangesh2704)  
-**Email:** 202103036.mangeshpkr@student.xavier.ac.in
